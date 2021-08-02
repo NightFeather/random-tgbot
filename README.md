@@ -8,7 +8,7 @@ Can be assigned within command line or just write them inside the .env file.
 
 See content in `.env.sample` for examples
 
-```ruby
+```bash
 bundle
 bundle exec ruby main.rb
 ```
