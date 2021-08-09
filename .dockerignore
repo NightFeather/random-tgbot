@@ -1,0 +1,4 @@
+.env
+.bundle
+vendor/
+docker-compose.yml
